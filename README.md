@@ -6,7 +6,6 @@ A collection of PowerShell scripts for Active Directory administration and manag
 
 - [Scripts](#scripts)
   - [Move-ADDeviceToOU.ps1](#move-addevicetoups1)
-  - [GPO Reporting Scripts](#gpo-reporting-scripts)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
